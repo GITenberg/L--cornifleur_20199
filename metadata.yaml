@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1507
     wikipedia: http://en.wikipedia.org/wiki/Jules_Renard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20199#L--cornifleur
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-12-27'
 gutenberg_type: Text
